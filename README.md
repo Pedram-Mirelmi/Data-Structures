@@ -10,3 +10,6 @@ As mentioned above, the linked list has many extra features
 
 # Min(max) Heap:
 Min Heap tree implemented by array
+
+# Red-Black Tree
+Red-Black tree
